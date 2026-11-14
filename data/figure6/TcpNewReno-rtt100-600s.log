@@ -1,0 +1,19 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+=== TCP Hybla Figure 6 pilot ===
+Total nodes: 15
+Total links: 14
+Target foreground RTT: 100 ms
+Wireless one-way delay: 40 ms
+Reference RTT: 25 ms
+RED on R1-R2: 2 queue discs; min=5 max=15 limit=50 packets
+Foreground TCP: TcpNewReno | background TCP: TcpNewReno | SACK: on | duration: 600 s
+Foreground[0] rxBytes=36498384 goodputMbps=0.486645
+Background[1] rxBytes=130668760 goodputMbps=1.74225
+Background[2] rxBytes=127441504 goodputMbps=1.69922
+Background[3] rxBytes=126789728 goodputMbps=1.69053
+Background[4] rxBytes=129903888 goodputMbps=1.73205
+Background[5] rxBytes=127237288 goodputMbps=1.6965
+Total goodputMbps: 9.04719
+RED[0] droppedPackets=4443
+RED[1] droppedPackets=0

@@ -1,0 +1,18 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+=== TCP Hybla experiment ===
+Total nodes: 15
+Total links: 14
+Target foreground RTT: 600 ms
+Wireless one-way delay: 290 ms
+Wireless PER per direction: 1%
+Reference RTT: 25 ms
+RED on R1-R2: 2 queue discs; min=5 max=15 limit=50 packets
+Foreground TCP: TcpNewReno | background TCP: off | SACK: on | duration: 600 s
+Active background flows: 0
+Foreground[0] rxBytes=3650696 goodputMbps=0.0486759
+Total goodputMbps: 0.0486759
+RED[0] droppedPackets=0
+RED[1] droppedPackets=0
+Wireless drops forward (gateway -> sink): 78
+Wireless drops reverse (sink -> gateway): 33

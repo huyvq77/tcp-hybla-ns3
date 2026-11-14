@@ -1,0 +1,1443 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
++1.053372800s Calculated rho=1
++1.053372800s In SlowStart, updated to cwnd 5896 ssthresh 4294967295 with an increment of 536
++1.059036800s Calculated rho=1
++1.059036800s In SlowStart, updated to cwnd 6432 ssthresh 4294967295 with an increment of 536
++1.064700800s Calculated rho=1
++1.064700800s In SlowStart, updated to cwnd 6968 ssthresh 4294967295 with an increment of 536
++1.070364800s Calculated rho=1
++1.070364800s In SlowStart, updated to cwnd 7504 ssthresh 4294967295 with an increment of 536
++1.076028800s Calculated rho=1
++1.076028800s In SlowStart, updated to cwnd 8040 ssthresh 4294967295 with an increment of 536
++1.083108800s Calculated rho=1
++1.083108800s In SlowStart, updated to cwnd 8576 ssthresh 4294967295 with an increment of 536
++1.089716800s Calculated rho=1
++1.089716800s In SlowStart, updated to cwnd 9112 ssthresh 4294967295 with an increment of 536
++1.093020800s Calculated rho=1
++1.093020800s In SlowStart, updated to cwnd 9648 ssthresh 4294967295 with an increment of 536
++1.099628800s Calculated rho=1
++1.099628800s In SlowStart, updated to cwnd 10184 ssthresh 4294967295 with an increment of 536
++1.106708800s Calculated rho=1
++1.106708800s In SlowStart, updated to cwnd 10720 ssthresh 4294967295 with an increment of 536
++1.110012800s Calculated rho=1
++1.110012800s In SlowStart, updated to cwnd 11256 ssthresh 4294967295 with an increment of 536
++1.116620800s Calculated rho=1
++1.116620800s In SlowStart, updated to cwnd 11792 ssthresh 4294967295 with an increment of 536
++1.125116800s Calculated rho=1
++1.125116800s In SlowStart, updated to cwnd 12328 ssthresh 4294967295 with an increment of 536
++1.127004800s Calculated rho=1
++1.127004800s In SlowStart, updated to cwnd 12864 ssthresh 4294967295 with an increment of 536
++1.137388800s Calculated rho=1
++1.137388800s In SlowStart, updated to cwnd 13400 ssthresh 4294967295 with an increment of 536
++1.141636800s Calculated rho=1
++1.141636800s In SlowStart, updated to cwnd 13936 ssthresh 4294967295 with an increment of 536
++1.143996800s Calculated rho=1
++1.143996800s In SlowStart, updated to cwnd 14472 ssthresh 4294967295 with an increment of 536
++1.150604800s Calculated rho=1
++1.150604800s In SlowStart, updated to cwnd 15008 ssthresh 4294967295 with an increment of 536
++1.166678400s Calculated rho=1
++1.167622400s Calculated rho=1
++1.168566400s Calculated rho=1
++1.176616000s Calculated rho=1
++1.178529600s Calculated rho=1
++1.188441600s Calculated rho=1
++1.188913600s Calculated rho=1
++1.189385600s Calculated rho=1
++1.194577600s Calculated rho=1
++1.195521600s Calculated rho=1
++1.200713600s Calculated rho=1
++1.201185600s Calculated rho=1
++1.214401600s Calculated rho=1
++1.215817600s Calculated rho=1
++1.216289600s Calculated rho=1
++1.222425600s Calculated rho=1
++1.224313600s Calculated rho=1
++1.228089600s Calculated rho=1
++1.229033600s Calculated rho=1
++1.242892800s Calculated rho=1
++1.243836800s Calculated rho=1
++1.245252800s Calculated rho=1
++1.253748800s Calculated rho=1
++1.256108800s Calculated rho=1
++1.258940800s Calculated rho=1
++1.259884800s Calculated rho=1
++1.272156800s Calculated rho=1
++1.272628800s Calculated rho=1
++1.274006400s Calculated rho=1
++1.274950400s Calculated rho=1
++1.282987200s Calculated rho=1
++1.288651200s Calculated rho=1
++1.289123200s Calculated rho=1
++1.299979200s Calculated rho=1
++1.300936000s Calculated rho=1
++1.301867200s Calculated rho=1
++1.302811200s Calculated rho=1
++1.303257600s Calculated rho=1
++1.304201600s Calculated rho=1
++1.310508800s Calculated rho=1
++1.315737600s Calculated rho=1
++1.316209600s Calculated rho=1
++1.327040000s Calculated rho=1
++1.328456000s Calculated rho=1
++1.330344000s Calculated rho=1
++1.331288000s Calculated rho=1
++1.354100800s Calculated rho=1
++1.354100800s In CongAvoid, updated to cwnd 2948 ssthresh 2412 with an increment of 536
++1.357404800s Calculated rho=1
++1.381633600s Calculated rho=1
++1.381633600s In CongAvoid, updated to cwnd 3484 ssthresh 2412 with an increment of 536
++1.384465600s Calculated rho=1
++1.408694400s Calculated rho=1
++1.409638400s Calculated rho=1
++1.409638400s In CongAvoid, updated to cwnd 4020 ssthresh 2412 with an increment of 536
++1.411998400s Calculated rho=1
++1.436227200s Calculated rho=1
++1.438115200s Calculated rho=1
++1.439059200s Calculated rho=1
++1.439059200s In CongAvoid, updated to cwnd 4556 ssthresh 2412 with an increment of 536
++1.463716800s Calculated rho=1
++1.465176000s Calculated rho=1
++1.466120000s Calculated rho=1
++1.467064000s Calculated rho=1
++1.467064000s In CongAvoid, updated to cwnd 5092 ssthresh 2412 with an increment of 536
++1.492150400s Calculated rho=1
++1.493094400s Calculated rho=1
++1.494038400s Calculated rho=1
++1.494982400s Calculated rho=1
++1.494982400s In CongAvoid, updated to cwnd 5628 ssthresh 2412 with an increment of 536
++1.519640000s Calculated rho=1
++1.520584000s Calculated rho=1
++1.521528000s Calculated rho=1
++1.522472000s Calculated rho=1
++1.523888000s Calculated rho=1
++1.523888000s In CongAvoid, updated to cwnd 6164 ssthresh 2412 with an increment of 536
++1.547172800s Calculated rho=1
++1.548116800s Calculated rho=1
++1.549060800s Calculated rho=1
++1.550004800s Calculated rho=1
++1.552793600s Calculated rho=1
++1.574233600s Calculated rho=1
++1.574233600s In CongAvoid, updated to cwnd 6700 ssthresh 2412 with an increment of 536
++1.575177600s Calculated rho=1
++1.576121600s Calculated rho=1
++1.577065600s Calculated rho=1
++1.580369600s Calculated rho=1
++1.601294400s Calculated rho=1
++1.601294400s In CongAvoid, updated to cwnd 7236 ssthresh 2412 with an increment of 536
++1.602238400s Calculated rho=1
++1.603182400s Calculated rho=1
++1.604598400s Calculated rho=1
++1.606486400s Calculated rho=1
++1.609790400s Calculated rho=1
++1.629142400s Calculated rho=1
++1.630086400s Calculated rho=1
++1.630086400s In CongAvoid, updated to cwnd 7772 ssthresh 2412 with an increment of 536
++1.631502400s Calculated rho=1
++1.632918400s Calculated rho=1
++1.634806400s Calculated rho=1
++1.638110400s Calculated rho=1
++1.658878400s Calculated rho=1
++1.659822400s Calculated rho=1
++1.660766400s Calculated rho=1
++1.660766400s In CongAvoid, updated to cwnd 8308 ssthresh 2412 with an increment of 536
++1.662654400s Calculated rho=1
++1.663598400s Calculated rho=1
++1.665486400s Calculated rho=1
++1.669262400s Calculated rho=1
++1.690030400s Calculated rho=1
++1.690974400s Calculated rho=1
++1.691918400s Calculated rho=1
++1.691918400s In CongAvoid, updated to cwnd 8844 ssthresh 2412 with an increment of 536
++1.693806400s Calculated rho=1
++1.694750400s Calculated rho=1
++1.697110400s Calculated rho=1
++1.700886400s Calculated rho=1
++1.721182400s Calculated rho=1
++1.722126400s Calculated rho=1
++1.723542400s Calculated rho=1
++1.724958400s Calculated rho=1
++1.724958400s In CongAvoid, updated to cwnd 9380 ssthresh 2412 with an increment of 536
++1.725902400s Calculated rho=1
++1.727790400s Calculated rho=1
++1.729678400s Calculated rho=1
++1.733926400s Calculated rho=1
++1.754694400s Calculated rho=1
++1.756110400s Calculated rho=1
++1.757526400s Calculated rho=1
++1.758470400s Calculated rho=1
++1.760358400s Calculated rho=1
++1.760358400s In CongAvoid, updated to cwnd 9916 ssthresh 2412 with an increment of 536
++1.761302400s Calculated rho=1
++1.763190400s Calculated rho=1
++1.768382400s Calculated rho=1
++1.790566400s Calculated rho=1
++1.791982400s Calculated rho=1
++1.793398400s Calculated rho=1
++1.794342400s Calculated rho=1
++1.796230400s Calculated rho=1
++1.797174400s Calculated rho=1
++1.797174400s In CongAvoid, updated to cwnd 10452 ssthresh 2412 with an increment of 536
++1.798590400s Calculated rho=1
++1.800006400s Calculated rho=1
++1.806142400s Calculated rho=1
++1.828798400s Calculated rho=1
++1.830686400s Calculated rho=1
++1.831630400s Calculated rho=1
++1.832574400s Calculated rho=1
++1.834462400s Calculated rho=1
++1.835878400s Calculated rho=1
++1.835878400s In CongAvoid, updated to cwnd 10988 ssthresh 2412 with an increment of 536
++1.837294400s Calculated rho=1
++1.838710400s Calculated rho=1
++1.843902400s Calculated rho=1
++1.866086400s Calculated rho=1
++1.867502400s Calculated rho=1
++1.868446400s Calculated rho=1
++1.869862400s Calculated rho=1
++1.871278400s Calculated rho=1
++1.873166400s Calculated rho=1
++1.874110400s Calculated rho=1
++1.874110400s In CongAvoid, updated to cwnd 11524 ssthresh 2412 with an increment of 536
++1.875526400s Calculated rho=1
++1.877414400s Calculated rho=1
++1.883078400s Calculated rho=1
++1.904790400s Calculated rho=1
++1.905734400s Calculated rho=1
++1.907150400s Calculated rho=1
++1.909536000s Calculated rho=1
++1.910480000s Calculated rho=1
++1.910952000s Calculated rho=1
++1.911424000s Calculated rho=1
++1.911896000s Calculated rho=1
++1.912840000s Calculated rho=1
++1.913784000s Calculated rho=1
++1.914256000s Calculated rho=1
++1.915200000s Calculated rho=1
++1.916616000s Calculated rho=1
++1.917560000s Calculated rho=1
++1.922280000s Calculated rho=1
++1.923696000s Calculated rho=1
++1.941160000s Calculated rho=1
++1.941632000s Calculated rho=1
++1.942104000s Calculated rho=1
++1.943048000s Calculated rho=1
++1.943992000s Calculated rho=1
++1.944936000s Calculated rho=1
++1.946352000s Calculated rho=1
++1.947296000s Calculated rho=1
++1.947768000s Calculated rho=1
++1.948214400s Calculated rho=1
++1.948214400s In CongAvoid, updated to cwnd 6700 ssthresh 5092 with an increment of 1608
++1.950574400s Calculated rho=1
++1.976062400s Calculated rho=1
++1.977963200s Calculated rho=1
++1.981254400s Calculated rho=1
++1.982670400s Calculated rho=1
++1.984086400s Calculated rho=1
++1.984086400s In CongAvoid, updated to cwnd 7236 ssthresh 5092 with an increment of 536
++1.985974400s Calculated rho=1
++2.009102400s Calculated rho=1
++2.010518400s Calculated rho=1
++2.013350400s Calculated rho=1
++2.014766400s Calculated rho=1
++2.016654400s Calculated rho=1
++2.016654400s In CongAvoid, updated to cwnd 7772 ssthresh 5092 with an increment of 536
++2.018070400s Calculated rho=1
++2.037422400s Calculated rho=1
++2.038838400s Calculated rho=1
++2.041670400s Calculated rho=1
++2.043086400s Calculated rho=1
++2.044502400s Calculated rho=1
++2.046390400s Calculated rho=1
++2.046390400s In CongAvoid, updated to cwnd 8308 ssthresh 5092 with an increment of 536
++2.047334400s Calculated rho=1
++2.069046400s Calculated rho=1
++2.069990400s Calculated rho=1
++2.072822400s Calculated rho=1
++2.074710400s Calculated rho=1
++2.075654400s Calculated rho=1
++2.077542400s Calculated rho=1
++2.077542400s In CongAvoid, updated to cwnd 8844 ssthresh 5092 with an increment of 536
++2.078958400s Calculated rho=1
++2.099726400s Calculated rho=1
++2.100670400s Calculated rho=1
++2.103056000s Calculated rho=1
++2.103528000s Calculated rho=1
++2.104944000s Calculated rho=1
++2.105416000s Calculated rho=1
++2.105888000s Calculated rho=1
++2.106832000s Calculated rho=1
++2.108248000s Calculated rho=1
++2.108720000s Calculated rho=1
++2.109192000s Calculated rho=1
++2.110136000s Calculated rho=1
++2.111080000s Calculated rho=1
++2.131848000s Calculated rho=1
++2.132320000s Calculated rho=1
++2.133264000s Calculated rho=1
++2.134208000s Calculated rho=1
++2.135624000s Calculated rho=1
++2.136568000s Calculated rho=1
++2.137486400s Calculated rho=1
++2.137486400s In CongAvoid, updated to cwnd 4824 ssthresh 3752 with an increment of 1072
++2.139846400s Calculated rho=1
++2.139846400s In CongAvoid, updated to cwnd 5360 ssthresh 3752 with an increment of 536
++2.163918400s Calculated rho=1
++2.166278400s Calculated rho=1
++2.168166400s Calculated rho=1
++2.170054400s Calculated rho=1
++2.171942400s Calculated rho=1
++2.171942400s In CongAvoid, updated to cwnd 5896 ssthresh 3752 with an increment of 536
++2.196499200s Calculated rho=1
++2.199318400s Calculated rho=1
++2.200734400s Calculated rho=1
++2.203094400s Calculated rho=1
++2.204982400s Calculated rho=1
++2.204982400s In CongAvoid, updated to cwnd 6432 ssthresh 3752 with an increment of 536
++2.229526400s Calculated rho=1
++2.231414400s Calculated rho=1
++2.232830400s Calculated rho=1
++2.235190400s Calculated rho=1
++2.237078400s Calculated rho=1
++2.238494400s Calculated rho=1
++2.238494400s In CongAvoid, updated to cwnd 6968 ssthresh 3752 with an increment of 536
++2.258790400s Calculated rho=1
++2.260678400s Calculated rho=1
++2.262566400s Calculated rho=1
++2.264454400s Calculated rho=1
++2.266342400s Calculated rho=1
++2.268230400s Calculated rho=1
++2.268230400s In CongAvoid, updated to cwnd 7504 ssthresh 3752 with an increment of 536
++2.288998400s Calculated rho=1
++2.290886400s Calculated rho=1
++2.292774400s Calculated rho=1
++2.294662400s Calculated rho=1
++2.296550400s Calculated rho=1
++2.298438400s Calculated rho=1
++2.300326400s Calculated rho=1
++2.300326400s In CongAvoid, updated to cwnd 8040 ssthresh 3752 with an increment of 536
++2.320622400s Calculated rho=1
++2.322510400s Calculated rho=1
++2.324398400s Calculated rho=1
++2.326286400s Calculated rho=1
++2.328174400s Calculated rho=1
++2.330062400s Calculated rho=1
++2.332422400s Calculated rho=1
++2.352246400s Calculated rho=1
++2.352246400s In CongAvoid, updated to cwnd 8576 ssthresh 3752 with an increment of 536
++2.354134400s Calculated rho=1
++2.356022400s Calculated rho=1
++2.357910400s Calculated rho=1
++2.359798400s Calculated rho=1
++2.361686400s Calculated rho=1
++2.364046400s Calculated rho=1
++2.383398400s Calculated rho=1
++2.384814400s Calculated rho=1
++2.384814400s In CongAvoid, updated to cwnd 9112 ssthresh 3752 with an increment of 536
++2.385771200s Calculated rho=1
++2.387659200s Calculated rho=1
++2.389547200s Calculated rho=1
++2.391894400s Calculated rho=1
++2.393323200s Calculated rho=1
++2.396142400s Calculated rho=1
++2.416451200s Calculated rho=1
++2.417867200s Calculated rho=1
++2.417867200s In CongAvoid, updated to cwnd 9648 ssthresh 3752 with an increment of 536
++2.419742400s Calculated rho=1
++2.421158400s Calculated rho=1
++2.422102400s Calculated rho=1
++2.424462400s Calculated rho=1
++2.425878400s Calculated rho=1
++2.427766400s Calculated rho=1
++2.446174400s Calculated rho=1
++2.447590400s Calculated rho=1
++2.449006400s Calculated rho=1
++2.449006400s In CongAvoid, updated to cwnd 10184 ssthresh 3752 with an increment of 536
++2.450422400s Calculated rho=1
++2.451366400s Calculated rho=1
++2.452782400s Calculated rho=1
++2.455142400s Calculated rho=1
++2.456558400s Calculated rho=1
++2.458918400s Calculated rho=1
++2.478270400s Calculated rho=1
++2.479686400s Calculated rho=1
++2.481574400s Calculated rho=1
++2.482518400s Calculated rho=1
++2.482518400s In CongAvoid, updated to cwnd 10720 ssthresh 3752 with an increment of 536
++2.483462400s Calculated rho=1
++2.484878400s Calculated rho=1
++2.487710400s Calculated rho=1
++2.489598400s Calculated rho=1
++2.491486400s Calculated rho=1
++2.509422400s Calculated rho=1
++2.511310400s Calculated rho=1
++2.513198400s Calculated rho=1
++2.514142400s Calculated rho=1
++2.515086400s Calculated rho=1
++2.515086400s In CongAvoid, updated to cwnd 11256 ssthresh 3752 with an increment of 536
++2.516030400s Calculated rho=1
++2.517918400s Calculated rho=1
++2.519806400s Calculated rho=1
++2.521720000s Calculated rho=1
++2.522664000s Calculated rho=1
++2.523608000s Calculated rho=1
++2.541544000s Calculated rho=1
++2.542016000s Calculated rho=1
++2.543432000s Calculated rho=1
++2.543904000s Calculated rho=1
++2.545320000s Calculated rho=1
++2.545792000s Calculated rho=1
++2.546264000s Calculated rho=1
++2.546736000s Calculated rho=1
++2.547208000s Calculated rho=1
++2.547680000s Calculated rho=1
++2.548624000s Calculated rho=1
++2.549568000s Calculated rho=1
++2.550040000s Calculated rho=1
++2.550984000s Calculated rho=1
++2.551928000s Calculated rho=1
++2.552400000s Calculated rho=1
++2.553344000s Calculated rho=1
++2.555704000s Calculated rho=1
++2.556648000s Calculated rho=1
++2.558038400s Calculated rho=1
++2.558038400s In CongAvoid, updated to cwnd 6164 ssthresh 5092 with an increment of 1072
++2.579278400s Calculated rho=1
++2.579278400s In CongAvoid, updated to cwnd 6700 ssthresh 5092 with an increment of 536
++2.581166400s Calculated rho=1
++2.583054400s Calculated rho=1
++2.586830400s Calculated rho=1
++2.589190400s Calculated rho=1
++2.610430400s Calculated rho=1
++2.611846400s Calculated rho=1
++2.611846400s In CongAvoid, updated to cwnd 7236 ssthresh 5092 with an increment of 536
++2.613262400s Calculated rho=1
++2.615622400s Calculated rho=1
++2.619398400s Calculated rho=1
++2.621286400s Calculated rho=1
++2.644414400s Calculated rho=1
++2.646302400s Calculated rho=1
++2.646302400s In CongAvoid, updated to cwnd 7772 ssthresh 5092 with an increment of 536
++2.647246400s Calculated rho=1
++2.649134400s Calculated rho=1
++2.652438400s Calculated rho=1
++2.654326400s Calculated rho=1
++2.674622400s Calculated rho=1
++2.676064000s Calculated rho=1
++2.677008000s Calculated rho=1
++2.677952000s Calculated rho=1
++2.678424000s Calculated rho=1
++2.678896000s Calculated rho=1
++2.679840000s Calculated rho=1
++2.682672000s Calculated rho=1
++2.683144000s Calculated rho=1
++2.684560000s Calculated rho=1
++2.685032000s Calculated rho=1
++2.706272000s Calculated rho=1
++2.706744000s Calculated rho=1
++2.707688000s Calculated rho=1
++2.708632000s Calculated rho=1
++2.709104000s Calculated rho=1
++2.709550400s Calculated rho=1
++2.709550400s In CongAvoid, updated to cwnd 4824 ssthresh 3216 with an increment of 1608
++2.714270400s Calculated rho=1
++2.738814400s Calculated rho=1
++2.739758400s Calculated rho=1
++2.739758400s In CongAvoid, updated to cwnd 5360 ssthresh 3216 with an increment of 536
++2.741646400s Calculated rho=1
++2.745422400s Calculated rho=1
++2.772326400s Calculated rho=1
++2.773270400s Calculated rho=1
++2.775184000s Calculated rho=1
++2.775656000s Calculated rho=1
++2.778960000s Calculated rho=1
++2.779432000s Calculated rho=1
++2.804448000s Calculated rho=1
++2.804920000s Calculated rho=1
++2.805392000s Calculated rho=1
++2.806336000s Calculated rho=1
++2.807280000s Calculated rho=1
++2.808224000s Calculated rho=1
++2.809168000s Calculated rho=1
++2.811502400s Calculated rho=1
++2.811502400s In CongAvoid, updated to cwnd 3752 ssthresh 2144 with an increment of 1608
++2.840766400s Calculated rho=1
++2.840766400s In CongAvoid, updated to cwnd 4288 ssthresh 2144 with an increment of 536
++2.844070400s Calculated rho=1
++2.845958400s Calculated rho=1
++2.874750400s Calculated rho=1
++2.876166400s Calculated rho=1
++2.876166400s In CongAvoid, updated to cwnd 4824 ssthresh 2144 with an increment of 536
++2.879470400s Calculated rho=1
++2.881830400s Calculated rho=1
++2.910622400s Calculated rho=1
++2.912510400s Calculated rho=1
++2.912510400s In CongAvoid, updated to cwnd 5360 ssthresh 2144 with an increment of 536
++2.915342400s Calculated rho=1
++2.917702400s Calculated rho=1
++2.943190400s Calculated rho=1
++2.945078400s Calculated rho=1
++2.946494400s Calculated rho=1
++2.946494400s In CongAvoid, updated to cwnd 5896 ssthresh 2144 with an increment of 536
++2.948395200s Calculated rho=1
++2.951227200s Calculated rho=1
++2.975286400s Calculated rho=1
++2.977646400s Calculated rho=1
++2.979534400s Calculated rho=1
++2.980950400s Calculated rho=1
++2.980950400s In CongAvoid, updated to cwnd 6432 ssthresh 2144 with an increment of 536
++2.983310400s Calculated rho=1
++3.006910400s Calculated rho=1
++3.009755200s Calculated rho=1
++3.011158400s Calculated rho=1
++3.012587200s Calculated rho=1
++3.014003200s Calculated rho=1
++3.014003200s In CongAvoid, updated to cwnd 6968 ssthresh 2144 with an increment of 536
++3.015891200s Calculated rho=1
++3.040894400s Calculated rho=1
++3.043726400s Calculated rho=1
++3.044670400s Calculated rho=1
++3.045614400s Calculated rho=1
++3.047030400s Calculated rho=1
++3.047030400s In CongAvoid, updated to cwnd 7504 ssthresh 2144 with an increment of 536
++3.047974400s Calculated rho=1
++3.070171200s Calculated rho=1
++3.072990400s Calculated rho=1
++3.073934400s Calculated rho=1
++3.074878400s Calculated rho=1
++3.075822400s Calculated rho=1
++3.076766400s Calculated rho=1
++3.076766400s In CongAvoid, updated to cwnd 8040 ssthresh 2144 with an increment of 536
++3.079126400s Calculated rho=1
++3.099894400s Calculated rho=1
++3.101782400s Calculated rho=1
++3.102726400s Calculated rho=1
++3.103670400s Calculated rho=1
++3.104614400s Calculated rho=1
++3.106502400s Calculated rho=1
++3.108862400s Calculated rho=1
++3.108862400s In CongAvoid, updated to cwnd 8576 ssthresh 2144 with an increment of 536
++3.127384000s Calculated rho=1
++3.128843200s Calculated rho=1
++3.129787200s Calculated rho=1
++3.130731200s Calculated rho=1
++3.132147200s Calculated rho=1
++3.134507200s Calculated rho=1
++3.136867200s Calculated rho=1
++3.138283200s Calculated rho=1
++3.138283200s In CongAvoid, updated to cwnd 9112 ssthresh 2144 with an increment of 536
++3.155747200s Calculated rho=1
++3.156691200s Calculated rho=1
++3.157635200s Calculated rho=1
++3.159051200s Calculated rho=1
++3.160467200s Calculated rho=1
++3.163299200s Calculated rho=1
++3.165187200s Calculated rho=1
++3.166603200s Calculated rho=1
++3.166603200s In CongAvoid, updated to cwnd 9648 ssthresh 2144 with an increment of 536
++3.185483200s Calculated rho=1
++3.186427200s Calculated rho=1
++3.187371200s Calculated rho=1
++3.188787200s Calculated rho=1
++3.190203200s Calculated rho=1
++3.193035200s Calculated rho=1
++3.194923200s Calculated rho=1
++3.195867200s Calculated rho=1
++3.197755200s Calculated rho=1
++3.197755200s In CongAvoid, updated to cwnd 10184 ssthresh 2144 with an increment of 536
++3.216635200s Calculated rho=1
++3.217579200s Calculated rho=1
++3.218523200s Calculated rho=1
++3.220411200s Calculated rho=1
++3.221355200s Calculated rho=1
++3.225131200s Calculated rho=1
++3.226075200s Calculated rho=1
++3.227963200s Calculated rho=1
++3.229379200s Calculated rho=1
++3.229379200s In CongAvoid, updated to cwnd 10720 ssthresh 2144 with an increment of 536
++3.248731200s Calculated rho=1
++3.249675200s Calculated rho=1
++3.251091200s Calculated rho=1
++3.252507200s Calculated rho=1
++3.253923200s Calculated rho=1
++3.257699200s Calculated rho=1
++3.259115200s Calculated rho=1
++3.260531200s Calculated rho=1
++3.262419200s Calculated rho=1
++3.263363200s Calculated rho=1
++3.263363200s In CongAvoid, updated to cwnd 11256 ssthresh 2144 with an increment of 536
++3.282243200s Calculated rho=1
++3.283659200s Calculated rho=1
++3.285075200s Calculated rho=1
++3.286491200s Calculated rho=1
++3.288851200s Calculated rho=1
++3.291683200s Calculated rho=1
++3.293571200s Calculated rho=1
++3.295459200s Calculated rho=1
++3.296403200s Calculated rho=1
++3.298291200s Calculated rho=1
++3.316699200s Calculated rho=1
++3.316699200s In CongAvoid, updated to cwnd 11792 ssthresh 2144 with an increment of 536
++3.318115200s Calculated rho=1
++3.319531200s Calculated rho=1
++3.320947200s Calculated rho=1
++3.323307200s Calculated rho=1
++3.326611200s Calculated rho=1
++3.328499200s Calculated rho=1
++3.330387200s Calculated rho=1
++3.331803200s Calculated rho=1
++3.333691200s Calculated rho=1
++3.353987200s Calculated rho=1
++3.354931200s Calculated rho=1
++3.354931200s In CongAvoid, updated to cwnd 12328 ssthresh 2144 with an increment of 536
++3.356819200s Calculated rho=1
++3.357763200s Calculated rho=1
++3.359651200s Calculated rho=1
++3.361539200s Calculated rho=1
++3.364843200s Calculated rho=1
++3.366259200s Calculated rho=1
++3.368147200s Calculated rho=1
++3.370035200s Calculated rho=1
++3.371923200s Calculated rho=1
++3.388456000s Calculated rho=1
++3.390331200s Calculated rho=1
++3.390331200s In CongAvoid, updated to cwnd 12864 ssthresh 2144 with an increment of 536
++3.391275200s Calculated rho=1
++3.392704000s Calculated rho=1
++3.394579200s Calculated rho=1
++3.396467200s Calculated rho=1
++3.400243200s Calculated rho=1
++3.401672000s Calculated rho=1
++3.403075200s Calculated rho=1
++3.404963200s Calculated rho=1
++3.406851200s Calculated rho=1
++3.421483200s Calculated rho=1
++3.422899200s Calculated rho=1
++3.423843200s Calculated rho=1
++3.423843200s In CongAvoid, updated to cwnd 13400 ssthresh 2144 with an increment of 536
++3.424787200s Calculated rho=1
++3.425731200s Calculated rho=1
++3.427619200s Calculated rho=1
++3.429507200s Calculated rho=1
++3.433755200s Calculated rho=1
++3.434699200s Calculated rho=1
++3.436115200s Calculated rho=1
++3.438003200s Calculated rho=1
++3.439891200s Calculated rho=1
++3.454995200s Calculated rho=1
++3.455492800s Calculated rho=1
++3.455964800s Calculated rho=1
++3.456436800s Calculated rho=1
++3.456908800s Calculated rho=1
++3.457380800s Calculated rho=1
++3.457852800s Calculated rho=1
++3.458796800s Calculated rho=1
++3.459740800s Calculated rho=1
++3.460212800s Calculated rho=1
++3.461156800s Calculated rho=1
++3.462100800s Calculated rho=1
++3.463044800s Calculated rho=1
++3.466820800s Calculated rho=1
++3.467292800s Calculated rho=1
++3.467764800s Calculated rho=1
++3.468708800s Calculated rho=1
++3.469652800s Calculated rho=1
++3.470124800s Calculated rho=1
++3.471540800s Calculated rho=1
++3.472012800s Calculated rho=1
++3.473900800s Calculated rho=1
++3.474844800s Calculated rho=1
++3.489476800s Calculated rho=1
++3.489948800s Calculated rho=1
++3.490420800s Calculated rho=1
++3.490892800s Calculated rho=1
++3.491339200s Calculated rho=1
++3.491339200s In CongAvoid, updated to cwnd 7772 ssthresh 6164 with an increment of 1608
++3.493699200s Calculated rho=1
++3.498891200s Calculated rho=1
++3.500779200s Calculated rho=1
++3.504555200s Calculated rho=1
++3.520603200s Calculated rho=1
++3.521560000s Calculated rho=1
++3.521560000s In CongAvoid, updated to cwnd 8308 ssthresh 6164 with an increment of 536
++3.523448000s Calculated rho=1
++3.525336000s Calculated rho=1
++3.530043200s Calculated rho=1
++3.532403200s Calculated rho=1
++3.536179200s Calculated rho=1
++3.551296000s Calculated rho=1
++3.552712000s Calculated rho=1
++3.552712000s In CongAvoid, updated to cwnd 8844 ssthresh 6164 with an increment of 536
++3.554587200s Calculated rho=1
++3.555531200s Calculated rho=1
++3.558835200s Calculated rho=1
++3.561195200s Calculated rho=1
++3.564971200s Calculated rho=1
++3.580547200s Calculated rho=1
++3.581963200s Calculated rho=1
++3.583379200s Calculated rho=1
++3.583379200s In CongAvoid, updated to cwnd 9380 ssthresh 6164 with an increment of 536
++3.584323200s Calculated rho=1
++3.585267200s Calculated rho=1
++3.588099200s Calculated rho=1
++3.591403200s Calculated rho=1
++3.595651200s Calculated rho=1
++3.611227200s Calculated rho=1
++3.612643200s Calculated rho=1
++3.614531200s Calculated rho=1
++3.615475200s Calculated rho=1
++3.615475200s In CongAvoid, updated to cwnd 9916 ssthresh 6164 with an increment of 536
++3.617363200s Calculated rho=1
++3.619723200s Calculated rho=1
++3.623027200s Calculated rho=1
++3.627747200s Calculated rho=1
++3.643323200s Calculated rho=1
++3.644739200s Calculated rho=1
++3.646155200s Calculated rho=1
++3.647571200s Calculated rho=1
++3.647571200s In CongAvoid, updated to cwnd 10452 ssthresh 6164 with an increment of 536
++3.648987200s Calculated rho=1
++3.649931200s Calculated rho=1
++3.652763200s Calculated rho=1
++3.655595200s Calculated rho=1
++3.660787200s Calculated rho=1
++3.677779200s Calculated rho=1
++3.678723200s Calculated rho=1
++3.679667200s Calculated rho=1
++3.681555200s Calculated rho=1
++3.682499200s Calculated rho=1
++3.682499200s In CongAvoid, updated to cwnd 10988 ssthresh 6164 with an increment of 536
++3.683443200s Calculated rho=1
++3.686275200s Calculated rho=1
++3.689107200s Calculated rho=1
++3.694299200s Calculated rho=1
++3.712235200s Calculated rho=1
++3.713179200s Calculated rho=1
++3.714123200s Calculated rho=1
++3.716011200s Calculated rho=1
++3.716955200s Calculated rho=1
++3.718371200s Calculated rho=1
++3.718371200s In CongAvoid, updated to cwnd 11524 ssthresh 6164 with an increment of 536
++3.719787200s Calculated rho=1
++3.722147200s Calculated rho=1
++3.724979200s Calculated rho=1
++3.731587200s Calculated rho=1
++3.747635200s Calculated rho=1
++3.748579200s Calculated rho=1
++3.749995200s Calculated rho=1
++3.751411200s Calculated rho=1
++3.752827200s Calculated rho=1
++3.754243200s Calculated rho=1
++3.754243200s In CongAvoid, updated to cwnd 12060 ssthresh 6164 with an increment of 536
++3.755659200s Calculated rho=1
++3.758019200s Calculated rho=1
++3.760851200s Calculated rho=1
++3.766987200s Calculated rho=1
++3.783507200s Calculated rho=1
++3.784451200s Calculated rho=1
++3.786811200s Calculated rho=1
++3.787755200s Calculated rho=1
++3.789184000s Calculated rho=1
++3.790587200s Calculated rho=1
++3.791544000s Calculated rho=1
++3.791544000s In CongAvoid, updated to cwnd 12596 ssthresh 6164 with an increment of 536
++3.793419200s Calculated rho=1
++3.795320000s Calculated rho=1
++3.798611200s Calculated rho=1
++3.801928000s Calculated rho=1
++3.817491200s Calculated rho=1
++3.819379200s Calculated rho=1
++3.821267200s Calculated rho=1
++3.822224000s Calculated rho=1
++3.823627200s Calculated rho=1
++3.824571200s Calculated rho=1
++3.825515200s Calculated rho=1
++3.826459200s Calculated rho=1
++3.826459200s In CongAvoid, updated to cwnd 13132 ssthresh 6164 with an increment of 536
++3.828832000s Calculated rho=1
++3.831651200s Calculated rho=1
++3.835899200s Calculated rho=1
++3.851500800s Calculated rho=1
++3.852916800s Calculated rho=1
++3.853860800s Calculated rho=1
++3.854804800s Calculated rho=1
++3.855276800s Calculated rho=1
++3.856220800s Calculated rho=1
++3.856692800s Calculated rho=1
++3.857164800s Calculated rho=1
++3.857636800s Calculated rho=1
++3.858108800s Calculated rho=1
++3.858580800s Calculated rho=1
++3.859052800s Calculated rho=1
++3.859524800s Calculated rho=1
++3.859996800s Calculated rho=1
++3.860940800s Calculated rho=1
++3.861884800s Calculated rho=1
++3.863300800s Calculated rho=1
++3.863772800s Calculated rho=1
++3.866132800s Calculated rho=1
++3.867076800s Calculated rho=1
++3.870380800s Calculated rho=1
++3.871324800s Calculated rho=1
++3.885956800s Calculated rho=1
++3.886900800s Calculated rho=1
++3.888291200s Calculated rho=1
++3.890204800s Calculated rho=1
++3.890676800s Calculated rho=1
++3.891148800s Calculated rho=1
++3.891620800s Calculated rho=1
++3.893036800s Calculated rho=1
++3.894452800s Calculated rho=1
++3.897284800s Calculated rho=1
++3.916164800s Calculated rho=1
++3.917108800s Calculated rho=1
++3.918524800s Calculated rho=1
++3.919940800s Calculated rho=1
++3.920412800s Calculated rho=1
++3.920859200s Calculated rho=1
++3.920859200s In CongAvoid, updated to cwnd 6432 ssthresh 5896 with an increment of 536
++3.922275200s Calculated rho=1
++3.924635200s Calculated rho=1
++3.947763200s Calculated rho=1
++3.949651200s Calculated rho=1
++3.949651200s In CongAvoid, updated to cwnd 6968 ssthresh 5896 with an increment of 536
++3.951539200s Calculated rho=1
++3.952483200s Calculated rho=1
++3.954371200s Calculated rho=1
++3.957203200s Calculated rho=1
++3.979859200s Calculated rho=1
++3.982691200s Calculated rho=1
++3.982691200s In CongAvoid, updated to cwnd 7504 ssthresh 5896 with an increment of 536
++3.983635200s Calculated rho=1
++3.984579200s Calculated rho=1
++3.986467200s Calculated rho=1
++3.989312000s Calculated rho=1
++4.009595200s Calculated rho=1
++4.012899200s Calculated rho=1
++4.013843200s Calculated rho=1
++4.013843200s In CongAvoid, updated to cwnd 8040 ssthresh 5896 with an increment of 536
++4.014787200s Calculated rho=1
++4.016203200s Calculated rho=1
++4.018091200s Calculated rho=1
++4.019979200s Calculated rho=1
++4.039803200s Calculated rho=1
++4.042635200s Calculated rho=1
++4.043579200s Calculated rho=1
++4.043579200s In CongAvoid, updated to cwnd 8576 ssthresh 5896 with an increment of 536
++4.045467200s Calculated rho=1
++4.046411200s Calculated rho=1
++4.048299200s Calculated rho=1
++4.050187200s Calculated rho=1
++4.070483200s Calculated rho=1
++4.073787200s Calculated rho=1
++4.075203200s Calculated rho=1
++4.076619200s Calculated rho=1
++4.076619200s In CongAvoid, updated to cwnd 9112 ssthresh 5896 with an increment of 536
++4.077563200s Calculated rho=1
++4.078507200s Calculated rho=1
++4.081339200s Calculated rho=1
++4.082283200s Calculated rho=1
++4.103051200s Calculated rho=1
++4.105883200s Calculated rho=1
++4.107771200s Calculated rho=1
++4.108715200s Calculated rho=1
++4.109659200s Calculated rho=1
++4.109659200s In CongAvoid, updated to cwnd 9648 ssthresh 5896 with an increment of 536
++4.111547200s Calculated rho=1
++4.113435200s Calculated rho=1
++4.114851200s Calculated rho=1
++4.136091200s Calculated rho=1
++4.138451200s Calculated rho=1
++4.140339200s Calculated rho=1
++4.141283200s Calculated rho=1
++4.142699200s Calculated rho=1
++4.144115200s Calculated rho=1
++4.144115200s In CongAvoid, updated to cwnd 10184 ssthresh 5896 with an increment of 536
++4.145059200s Calculated rho=1
++4.147419200s Calculated rho=1
++4.150251200s Calculated rho=1
++4.168187200s Calculated rho=1
++4.170547200s Calculated rho=1
++4.171963200s Calculated rho=1
++4.173379200s Calculated rho=1
++4.174795200s Calculated rho=1
++4.175739200s Calculated rho=1
++4.175739200s In CongAvoid, updated to cwnd 10720 ssthresh 5896 with an increment of 536
++4.177627200s Calculated rho=1
++4.179515200s Calculated rho=1
++4.182347200s Calculated rho=1
++4.198395200s Calculated rho=1
++4.201227200s Calculated rho=1
++4.202171200s Calculated rho=1
++4.203587200s Calculated rho=1
++4.205003200s Calculated rho=1
++4.206419200s Calculated rho=1
++4.208307200s Calculated rho=1
++4.208307200s In CongAvoid, updated to cwnd 11256 ssthresh 5896 with an increment of 536
++4.209251200s Calculated rho=1
++4.211139200s Calculated rho=1
++4.213971200s Calculated rho=1
++4.228131200s Calculated rho=1
++4.230963200s Calculated rho=1
++4.231907200s Calculated rho=1
++4.233795200s Calculated rho=1
++4.235211200s Calculated rho=1
++4.236627200s Calculated rho=1
++4.238515200s Calculated rho=1
++4.239931200s Calculated rho=1
++4.239931200s In CongAvoid, updated to cwnd 11792 ssthresh 5896 with an increment of 536
++4.241347200s Calculated rho=1
++4.244651200s Calculated rho=1
++4.258339200s Calculated rho=1
++4.260699200s Calculated rho=1
++4.262115200s Calculated rho=1
++4.263531200s Calculated rho=1
++4.264947200s Calculated rho=1
++4.266363200s Calculated rho=1
++4.268723200s Calculated rho=1
++4.270611200s Calculated rho=1
++4.271555200s Calculated rho=1
++4.271555200s In CongAvoid, updated to cwnd 12328 ssthresh 5896 with an increment of 536
++4.273443200s Calculated rho=1
++4.276275200s Calculated rho=1
++4.290448000s Calculated rho=1
++4.292795200s Calculated rho=1
++4.294211200s Calculated rho=1
++4.295168000s Calculated rho=1
++4.297043200s Calculated rho=1
++4.298000000s Calculated rho=1
++4.300819200s Calculated rho=1
++4.301763200s Calculated rho=1
++4.303651200s Calculated rho=1
++4.303651200s In CongAvoid, updated to cwnd 12864 ssthresh 5896 with an increment of 536
++4.305067200s Calculated rho=1
++4.308371200s Calculated rho=1
++4.324419200s Calculated rho=1
++4.325835200s Calculated rho=1
++4.327251200s Calculated rho=1
++4.328195200s Calculated rho=1
++4.329139200s Calculated rho=1
++4.330555200s Calculated rho=1
++4.332443200s Calculated rho=1
++4.333387200s Calculated rho=1
++4.335275200s Calculated rho=1
++4.337163200s Calculated rho=1
++4.337163200s In CongAvoid, updated to cwnd 13400 ssthresh 5896 with an increment of 536
++4.338107200s Calculated rho=1
++4.341883200s Calculated rho=1
++4.356515200s Calculated rho=1
++4.358403200s Calculated rho=1
++4.359347200s Calculated rho=1
++4.360291200s Calculated rho=1
++4.361235200s Calculated rho=1
++4.362179200s Calculated rho=1
++4.364067200s Calculated rho=1
++4.365011200s Calculated rho=1
++4.366899200s Calculated rho=1
++4.368787200s Calculated rho=1
++4.369731200s Calculated rho=1
++4.369731200s In CongAvoid, updated to cwnd 13936 ssthresh 5896 with an increment of 536
++4.373979200s Calculated rho=1
++4.389083200s Calculated rho=1
++4.390499200s Calculated rho=1
++4.391443200s Calculated rho=1
++4.392387200s Calculated rho=1
++4.393331200s Calculated rho=1
++4.394747200s Calculated rho=1
++4.396163200s Calculated rho=1
++4.397579200s Calculated rho=1
++4.398995200s Calculated rho=1
++4.400883200s Calculated rho=1
++4.401827200s Calculated rho=1
++4.403243200s Calculated rho=1
++4.403243200s In CongAvoid, updated to cwnd 14472 ssthresh 5896 with an increment of 536
++4.407491200s Calculated rho=1
++4.421651200s Calculated rho=1
++4.422595200s Calculated rho=1
++4.423539200s Calculated rho=1
++4.424483200s Calculated rho=1
++4.425899200s Calculated rho=1
++4.427315200s Calculated rho=1
++4.428731200s Calculated rho=1
++4.430147200s Calculated rho=1
++4.432035200s Calculated rho=1
++4.432979200s Calculated rho=1
++4.434395200s Calculated rho=1
++4.436755200s Calculated rho=1
++4.436755200s In CongAvoid, updated to cwnd 15008 ssthresh 5896 with an increment of 536
++4.440059200s Calculated rho=1
++4.454691200s Calculated rho=1
++4.455635200s Calculated rho=1
++4.456579200s Calculated rho=1
++4.457523200s Calculated rho=1
++4.458939200s Calculated rho=1
++4.460355200s Calculated rho=1
++4.461771200s Calculated rho=1
++4.463659200s Calculated rho=1
++4.465075200s Calculated rho=1
++4.466019200s Calculated rho=1
++4.467435200s Calculated rho=1
++4.469795200s Calculated rho=1
++4.471683200s Calculated rho=1
++4.471683200s In CongAvoid, updated to cwnd 15544 ssthresh 5896 with an increment of 536
++4.474515200s Calculated rho=1
++4.489619200s Calculated rho=1
++4.490563200s Calculated rho=1
++4.491507200s Calculated rho=1
++4.492451200s Calculated rho=1
++4.494339200s Calculated rho=1
++4.495755200s Calculated rho=1
++4.497643200s Calculated rho=1
++4.499531200s Calculated rho=1
++4.500475200s Calculated rho=1
++4.501419200s Calculated rho=1
++4.502835200s Calculated rho=1
++4.505195200s Calculated rho=1
++4.507555200s Calculated rho=1
++4.509928000s Calculated rho=1
++4.509928000s In CongAvoid, updated to cwnd 16080 ssthresh 5896 with an increment of 536
++4.525019200s Calculated rho=1
++4.525963200s Calculated rho=1
++4.526907200s Calculated rho=1
++4.527851200s Calculated rho=1
++4.529739200s Calculated rho=1
++4.531155200s Calculated rho=1
++4.532571200s Calculated rho=1
++4.534931200s Calculated rho=1
++4.535875200s Calculated rho=1
++4.536819200s Calculated rho=1
++4.538707200s Calculated rho=1
++4.540595200s Calculated rho=1
++4.542955200s Calculated rho=1
++4.545787200s Calculated rho=1
++4.547203200s Calculated rho=1
++4.547203200s In CongAvoid, updated to cwnd 16616 ssthresh 5896 with an increment of 536
++4.559947200s Calculated rho=1
++4.560891200s Calculated rho=1
++4.561835200s Calculated rho=1
++4.563251200s Calculated rho=1
++4.565139200s Calculated rho=1
++4.566555200s Calculated rho=1
++4.567499200s Calculated rho=1
++4.569387200s Calculated rho=1
++4.570331200s Calculated rho=1
++4.572219200s Calculated rho=1
++4.574107200s Calculated rho=1
++4.576467200s Calculated rho=1
++4.578355200s Calculated rho=1
++4.580715200s Calculated rho=1
++4.582603200s Calculated rho=1
++4.582603200s In CongAvoid, updated to cwnd 17152 ssthresh 5896 with an increment of 536
++4.594403200s Calculated rho=1
++4.595347200s Calculated rho=1
++4.596291200s Calculated rho=1
++4.598179200s Calculated rho=1
++4.600067200s Calculated rho=1
++4.601011200s Calculated rho=1
++4.602427200s Calculated rho=1
++4.603843200s Calculated rho=1
++4.605259200s Calculated rho=1
++4.607147200s Calculated rho=1
++4.609979200s Calculated rho=1
++4.612339200s Calculated rho=1
++4.614227200s Calculated rho=1
++4.615643200s Calculated rho=1
++4.617531200s Calculated rho=1
++4.618960000s Calculated rho=1
++4.618960000s In CongAvoid, updated to cwnd 17688 ssthresh 5896 with an increment of 536
++4.630747200s Calculated rho=1
++4.631691200s Calculated rho=1
++4.632635200s Calculated rho=1
++4.634523200s Calculated rho=1
++4.636411200s Calculated rho=1
++4.637380800s Calculated rho=1
++4.638324800s Calculated rho=1
++4.638796800s Calculated rho=1
++4.639268800s Calculated rho=1
++4.639740800s Calculated rho=1
++4.640684800s Calculated rho=1
++4.641628800s Calculated rho=1
++4.642572800s Calculated rho=1
++4.643516800s Calculated rho=1
++4.645876800s Calculated rho=1
++4.646348800s Calculated rho=1
++4.648236800s Calculated rho=1
++4.649180800s Calculated rho=1
++4.650124800s Calculated rho=1
++4.651068800s Calculated rho=1
++4.651540800s Calculated rho=1
++4.652012800s Calculated rho=1
++4.652484800s Calculated rho=1
++4.652956800s Calculated rho=1
++4.653900800s Calculated rho=1
++4.654844800s Calculated rho=1
++4.655316800s Calculated rho=1
++4.663812800s Calculated rho=1
++4.664284800s Calculated rho=1
++4.664756800s Calculated rho=1
++4.665228800s Calculated rho=1
++4.665700800s Calculated rho=1
++4.666644800s Calculated rho=1
++4.667588800s Calculated rho=1
++4.668532800s Calculated rho=1
++4.669476800s Calculated rho=1
++4.669948800s Calculated rho=1
++4.670892800s Calculated rho=1
++4.671836800s Calculated rho=1
++4.672283200s Calculated rho=1
++4.672283200s In CongAvoid, updated to cwnd 9380 ssthresh 8308 with an increment of 1072
++4.675115200s Calculated rho=1
++4.679860800s Calculated rho=1
++4.681276800s Calculated rho=1
++4.681748800s Calculated rho=1
++4.682692800s Calculated rho=1
++4.684108800s Calculated rho=1
++4.691660800s Calculated rho=1
++4.692315200s Calculated rho=1
++4.693731200s Calculated rho=1
++4.695619200s Calculated rho=1
++4.698382400s Calculated rho=1
++4.699326400s Calculated rho=1
++4.700270400s Calculated rho=1
++4.701214400s Calculated rho=1
++4.701686400s Calculated rho=1
++4.703102400s Calculated rho=1
++4.704046400s Calculated rho=1
++4.708294400s Calculated rho=1
++4.709238400s Calculated rho=1
++4.709684800s Calculated rho=1
++4.709684800s In CongAvoid, updated to cwnd 5628 ssthresh 4020 with an increment of 1608
++4.722680000s Calculated rho=1
++4.729150400s Calculated rho=1
++4.736299200s Calculated rho=1
++4.736299200s In CongAvoid, updated to cwnd 6164 ssthresh 4020 with an increment of 536
++4.737715200s Calculated rho=1
++4.740075200s Calculated rho=1
++4.751875200s Calculated rho=1
++4.758056000s Calculated rho=1
++4.764192000s Calculated rho=1
++4.765608000s Calculated rho=1
++4.765608000s In CongAvoid, updated to cwnd 6700 ssthresh 4020 with an increment of 536
++4.767968000s Calculated rho=1
++4.780712000s Calculated rho=1
++4.785545600s Calculated rho=1
++4.792153600s Calculated rho=1
++4.794513600s Calculated rho=1
++4.794513600s In CongAvoid, updated to cwnd 7236 ssthresh 4020 with an increment of 536
++4.795457600s Calculated rho=1
++4.797817600s Calculated rho=1
++4.810561600s Calculated rho=1
++4.815281600s Calculated rho=1
++4.821889600s Calculated rho=1
++4.823777600s Calculated rho=1
++4.825193600s Calculated rho=1
++4.825193600s In CongAvoid, updated to cwnd 7772 ssthresh 4020 with an increment of 536
++4.826609600s Calculated rho=1
++4.839825600s Calculated rho=1
++4.844545600s Calculated rho=1
++4.850681600s Calculated rho=1
++4.852569600s Calculated rho=1
++4.854457600s Calculated rho=1
++4.855401600s Calculated rho=1
++4.855401600s In CongAvoid, updated to cwnd 8308 ssthresh 4020 with an increment of 536
++4.857289600s Calculated rho=1
++4.870977600s Calculated rho=1
++4.876169600s Calculated rho=1
++4.882305600s Calculated rho=1
++4.885137600s Calculated rho=1
++4.886081600s Calculated rho=1
++4.887969600s Calculated rho=1
++4.887969600s In CongAvoid, updated to cwnd 8844 ssthresh 4020 with an increment of 536
++4.889385600s Calculated rho=1
++4.904017600s Calculated rho=1
++4.909681600s Calculated rho=1
++4.915817600s Calculated rho=1
++4.918177600s Calculated rho=1
++4.919121600s Calculated rho=1
++4.921009600s Calculated rho=1
++4.922897600s Calculated rho=1
++4.922897600s In CongAvoid, updated to cwnd 9380 ssthresh 4020 with an increment of 536
++4.923841600s Calculated rho=1
++4.939417600s Calculated rho=1
++4.944137600s Calculated rho=1
++4.951217600s Calculated rho=1
++4.953105600s Calculated rho=1
++4.954049600s Calculated rho=1
++4.955937600s Calculated rho=1
++4.957825600s Calculated rho=1
++4.958769600s Calculated rho=1
++4.958769600s In CongAvoid, updated to cwnd 9916 ssthresh 4020 with an increment of 536
++4.974830400s Calculated rho=1
++4.980009600s Calculated rho=1
++4.987561600s Calculated rho=1
++4.988977600s Calculated rho=1
++4.990393600s Calculated rho=1
++4.991809600s Calculated rho=1
++4.993697600s Calculated rho=1
++4.995113600s Calculated rho=1
++4.996529600s Calculated rho=1
++4.996529600s In CongAvoid, updated to cwnd 10452 ssthresh 4020 with an increment of 536
++5.005969600s Calculated rho=1
++5.011633600s Calculated rho=1
++5.019657600s Calculated rho=1
++5.021073600s Calculated rho=1
++5.022961600s Calculated rho=1
++5.024849600s Calculated rho=1
++5.026265600s Calculated rho=1
++5.027681600s Calculated rho=1
++5.029123200s Calculated rho=1
++5.030067200s Calculated rho=1
++5.038563200s Calculated rho=1
++5.039507200s Calculated rho=1
++5.043755200s Calculated rho=1
++5.044699200s Calculated rho=1
++5.051307200s Calculated rho=1
++5.052251200s Calculated rho=1
++5.053195200s Calculated rho=1
++5.054139200s Calculated rho=1
++5.055555200s Calculated rho=1
++5.056499200s Calculated rho=1
++5.056971200s Calculated rho=1
++5.057443200s Calculated rho=1
++5.058387200s Calculated rho=1
++5.059331200s Calculated rho=1
++5.060275200s Calculated rho=1
++5.061219200s Calculated rho=1
++5.062163200s Calculated rho=1
++5.063107200s Calculated rho=1
++5.071577600s Calculated rho=1
++5.071577600s In CongAvoid, updated to cwnd 6164 ssthresh 4556 with an increment of 1608
++5.084793600s Calculated rho=1
++5.088097600s Calculated rho=1
++5.091401600s Calculated rho=1
++5.091401600s In CongAvoid, updated to cwnd 6700 ssthresh 4556 with an increment of 536
++5.101785600s Calculated rho=1
++5.103673600s Calculated rho=1
++5.115945600s Calculated rho=1
++5.118777600s Calculated rho=1
++5.121622400s Calculated rho=1
++5.123038400s Calculated rho=1
++5.123038400s In CongAvoid, updated to cwnd 7236 ssthresh 4556 with an increment of 536
++5.133409600s Calculated rho=1
++5.135297600s Calculated rho=1
++5.148998400s Calculated rho=1
++5.151830400s Calculated rho=1
++5.153705600s Calculated rho=1
++5.154649600s Calculated rho=1
++5.154649600s In CongAvoid, updated to cwnd 7772 ssthresh 4556 with an increment of 536
++5.164561600s Calculated rho=1
++5.166449600s Calculated rho=1
++5.181081600s Calculated rho=1
++5.183913600s Calculated rho=1
++5.185329600s Calculated rho=1
++5.186273600s Calculated rho=1
++5.187217600s Calculated rho=1
++5.187217600s In CongAvoid, updated to cwnd 8308 ssthresh 4556 with an increment of 536
++5.196185600s Calculated rho=1
++5.198073600s Calculated rho=1
++5.212233600s Calculated rho=1
++5.216009600s Calculated rho=1
++5.217425600s Calculated rho=1
++5.218382400s Calculated rho=1
++5.220270400s Calculated rho=1
++5.228753600s Calculated rho=1
++5.228753600s In CongAvoid, updated to cwnd 8844 ssthresh 4556 with an increment of 536
++5.230641600s Calculated rho=1
++5.245273600s Calculated rho=1
++5.249049600s Calculated rho=1
++5.249993600s Calculated rho=1
++5.250937600s Calculated rho=1
++5.252353600s Calculated rho=1
++5.258515200s Calculated rho=1
++5.259459200s Calculated rho=1
++5.260403200s Calculated rho=1
++5.261347200s Calculated rho=1
++5.274563200s Calculated rho=1
++5.275507200s Calculated rho=1
++5.278339200s Calculated rho=1
++5.278811200s Calculated rho=1
++5.279283200s Calculated rho=1
++5.279755200s Calculated rho=1
++5.280227200s Calculated rho=1
++5.280699200s Calculated rho=1
++5.281171200s Calculated rho=1
++5.282115200s Calculated rho=1
++5.288723200s Calculated rho=1
++5.289195200s Calculated rho=1
++5.290139200s Calculated rho=1
++5.291057600s Calculated rho=1
++5.291057600s In CongAvoid, updated to cwnd 5360 ssthresh 3752 with an increment of 1608
++5.308993600s Calculated rho=1
++5.317489600s Calculated rho=1
++5.318905600s Calculated rho=1
++5.318905600s In CongAvoid, updated to cwnd 5896 ssthresh 3752 with an increment of 536
++5.320793600s Calculated rho=1
++5.322681600s Calculated rho=1
++5.340617600s Calculated rho=1
++5.349585600s Calculated rho=1
++5.351473600s Calculated rho=1
++5.352889600s Calculated rho=1
++5.352889600s In CongAvoid, updated to cwnd 6432 ssthresh 3752 with an increment of 536
++5.354777600s Calculated rho=1
++5.373185600s Calculated rho=1
++5.382625600s Calculated rho=1
++5.384041600s Calculated rho=1
++5.385929600s Calculated rho=1
++5.387345600s Calculated rho=1
++5.387345600s In CongAvoid, updated to cwnd 6968 ssthresh 3752 with an increment of 536
++5.388761600s Calculated rho=1
++5.406225600s Calculated rho=1
++5.415665600s Calculated rho=1
++5.417553600s Calculated rho=1
++5.419441600s Calculated rho=1
++5.420857600s Calculated rho=1
++5.420857600s In CongAvoid, updated to cwnd 7504 ssthresh 3752 with an increment of 536
++5.422273600s Calculated rho=1
++5.439737600s Calculated rho=1
++5.449649600s Calculated rho=1
++5.451537600s Calculated rho=1
++5.453425600s Calculated rho=1
++5.454841600s Calculated rho=1
++5.455785600s Calculated rho=1
++5.455785600s In CongAvoid, updated to cwnd 8040 ssthresh 3752 with an increment of 536
++5.457686400s Calculated rho=1
++5.473249600s Calculated rho=1
++5.483633600s Calculated rho=1
++5.485521600s Calculated rho=1
++5.487409600s Calculated rho=1
++5.488825600s Calculated rho=1
++5.489769600s Calculated rho=1
++5.492129600s Calculated rho=1
++5.492129600s In CongAvoid, updated to cwnd 8576 ssthresh 3752 with an increment of 536
++5.508177600s Calculated rho=1
++5.518561600s Calculated rho=1
++5.520449600s Calculated rho=1
++5.522337600s Calculated rho=1
++5.523281600s Calculated rho=1
++5.524697600s Calculated rho=1
++5.526113600s Calculated rho=1
++5.528001600s Calculated rho=1
++5.528001600s In CongAvoid, updated to cwnd 9112 ssthresh 3752 with an increment of 536
++5.544062400s Calculated rho=1
++5.555403200s Calculated rho=1
++5.556347200s Calculated rho=1
++5.557291200s Calculated rho=1
++5.557763200s Calculated rho=1
++5.558235200s Calculated rho=1
++5.559179200s Calculated rho=1
++5.560123200s Calculated rho=1
++5.560595200s Calculated rho=1
++5.561539200s Calculated rho=1
++5.562483200s Calculated rho=1
++5.563899200s Calculated rho=1
++5.564843200s Calculated rho=1
++5.565787200s Calculated rho=1
++5.578531200s Calculated rho=1
++5.579475200s Calculated rho=1
++5.588915200s Calculated rho=1
++5.589859200s Calculated rho=1
++5.590331200s Calculated rho=1
++5.590777600s Calculated rho=1
++5.590777600s In CongAvoid, updated to cwnd 5092 ssthresh 4020 with an increment of 1072
++5.593609600s Calculated rho=1
++5.593609600s In CongAvoid, updated to cwnd 5628 ssthresh 4020 with an increment of 536
++5.610129600s Calculated rho=1
++5.620985600s Calculated rho=1
++5.622401600s Calculated rho=1
++5.624761600s Calculated rho=1
++5.626177600s Calculated rho=1
++5.626177600s In CongAvoid, updated to cwnd 6164 ssthresh 4020 with an increment of 536
++5.644585600s Calculated rho=1
++5.655939200s Calculated rho=1
++5.656883200s Calculated rho=1
++5.658299200s Calculated rho=1
++5.658771200s Calculated rho=1
++5.659243200s Calculated rho=1
++5.660187200s Calculated rho=1
++5.661603200s Calculated rho=1
++5.676235200s Calculated rho=1
++5.677179200s Calculated rho=1
++5.687563200s Calculated rho=1
++5.688035200s Calculated rho=1
++5.688979200s Calculated rho=1
++5.689897600s Calculated rho=1
++5.689897600s In CongAvoid, updated to cwnd 4020 ssthresh 2412 with an increment of 1608
++5.717745600s Calculated rho=1
++5.719633600s Calculated rho=1
++5.719633600s In CongAvoid, updated to cwnd 4556 ssthresh 2412 with an increment of 536
++5.721521600s Calculated rho=1
++5.748438400s Calculated rho=1
++5.750326400s Calculated rho=1
++5.752201600s Calculated rho=1
++5.752201600s In CongAvoid, updated to cwnd 5092 ssthresh 2412 with an increment of 536
++5.753617600s Calculated rho=1
++5.778633600s Calculated rho=1
++5.780049600s Calculated rho=1
++5.781937600s Calculated rho=1
++5.781937600s In CongAvoid, updated to cwnd 5628 ssthresh 2412 with an increment of 536
++5.782881600s Calculated rho=1
++5.806123200s Calculated rho=1
++5.807539200s Calculated rho=1
++5.809427200s Calculated rho=1
++5.810371200s Calculated rho=1
++5.810371200s In CongAvoid, updated to cwnd 6164 ssthresh 2412 with an increment of 536
++5.811787200s Calculated rho=1
++5.834915200s Calculated rho=1
++5.836331200s Calculated rho=1
++5.837747200s Calculated rho=1
++5.838691200s Calculated rho=1
++5.840107200s Calculated rho=1
++5.840107200s In CongAvoid, updated to cwnd 6700 ssthresh 2412 with an increment of 536
++5.864179200s Calculated rho=1
++5.866539200s Calculated rho=1
++5.867483200s Calculated rho=1
++5.868427200s Calculated rho=1
++5.870315200s Calculated rho=1
++5.871731200s Calculated rho=1
++5.871731200s In CongAvoid, updated to cwnd 7236 ssthresh 2412 with an increment of 536
++5.896275200s Calculated rho=1
++5.898163200s Calculated rho=1
++5.899107200s Calculated rho=1
++5.900995200s Calculated rho=1
++5.902411200s Calculated rho=1
++5.903827200s Calculated rho=1
++5.903827200s In CongAvoid, updated to cwnd 7772 ssthresh 2412 with an increment of 536
++5.929787200s Calculated rho=1
++5.932147200s Calculated rho=1
++5.933091200s Calculated rho=1
++5.934979200s Calculated rho=1
++5.936395200s Calculated rho=1
++5.937811200s Calculated rho=1
++5.939227200s Calculated rho=1
++5.939227200s In CongAvoid, updated to cwnd 8308 ssthresh 2412 with an increment of 536
++5.964256000s Calculated rho=1
++5.966131200s Calculated rho=1
++5.967075200s Calculated rho=1
++5.968963200s Calculated rho=1
++5.970851200s Calculated rho=1
++5.972280000s Calculated rho=1
++5.974168000s Calculated rho=1
++5.999171200s Calculated rho=1
++5.999171200s In CongAvoid, updated to cwnd 8844 ssthresh 2412 with an increment of 536
+=== TCP Hybla experiment ===
+Total nodes: 15
+Total links: 14
+Target foreground RTT: 25 ms
+Wireless one-way delay: 2.5 ms
+Wireless PER per direction: 0%
+Reference RTT: 25 ms
+RED on R1-R2: 2 queue discs; min=5 max=15 limit=50 packets
+Foreground TCP: TcpHybla | background TCP: TcpNewReno | SACK: on | duration: 5 s
+Active background flows: 5
+Foreground[0] rxBytes=1198496 goodputMbps=1.91759
+Background[1] rxBytes=964800 goodputMbps=1.54368
+Background[2] rxBytes=749864 goodputMbps=1.19978
+Background[3] rxBytes=956224 goodputMbps=1.52996
+Background[4] rxBytes=584240 goodputMbps=0.934784
+Background[5] rxBytes=1078432 goodputMbps=1.72549
+Total goodputMbps: 8.85129
+RED[0] droppedPackets=144
+RED[1] droppedPackets=0
+Wireless drops forward (gateway -> sink): 0
+Wireless drops reverse (sink -> gateway): 0
